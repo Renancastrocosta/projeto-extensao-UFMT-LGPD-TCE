@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-039",
+  "url": "https://pce.tce.mt.gov.br/juris",
+  "captured_at": "2026-07-06T13:51:38.043913+00:00",
+  "status_http": 200,
+  "content_hash": "b41467cd40a7adba4668a4e425adb3ca8e87e5c11fbc02446809f21a0cce80ab",
+  "screenshot_hash": "6a5d3800be2cf5e5f4e5751831047f6ffabdd9d75dece00a599d4464bc9173e5",
+  "screenshot_path": "evidence/ev-039/screenshot.png",
+  "html_summary_path": "evidence/ev-039/page_summary.txt",
+  "page_title": "PCe | Juris",
+  "audit_id": "tce-mt"
+}

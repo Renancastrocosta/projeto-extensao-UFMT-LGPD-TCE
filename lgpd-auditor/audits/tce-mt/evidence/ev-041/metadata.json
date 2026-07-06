@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-041",
+  "url": "https://servicos.tce.mt.gov.br/consulta-item",
+  "captured_at": "2026-07-06T13:51:43.893775+00:00",
+  "status_http": 200,
+  "content_hash": "21b63ca85a02330083ec54ee111f9a2222fb6e0ae5325f52de967bd252f38b8d",
+  "screenshot_hash": "88ea2ce00d54950fe571957882a4a3a46038b0c807ffa41309a9e05669d377c5",
+  "screenshot_path": "evidence/ev-041/screenshot.png",
+  "html_summary_path": "evidence/ev-041/page_summary.txt",
+  "page_title": "Catálogo de Material de Licitação :: Portal de Serviços / TCE-MT",
+  "audit_id": "tce-mt"
+}

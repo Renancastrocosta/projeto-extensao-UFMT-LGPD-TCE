@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-271",
+  "url": "https://servicos.tce.mt.gov.br/empresas-inidoneas",
+  "captured_at": "2026-07-06T13:52:52.281091+00:00",
+  "status_http": 200,
+  "content_hash": "e8c874d7b6f06252c9b0d001bd8f17ab57836854e9d856900cbc045a4981e847",
+  "screenshot_hash": "90e6e1f3279674ee9823fb1bd194bb311fc14ee792f62beb2468db1ff1e34b4f",
+  "screenshot_path": "evidence/ev-271/screenshot.png",
+  "html_summary_path": "evidence/ev-271/page_summary.txt",
+  "page_title": ":: Portal de Serviços / TCE-MT",
+  "audit_id": "tce-mt"
+}

@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-045",
+  "url": "https://www.tce.mt.gov.br/julgamento/presencial",
+  "captured_at": "2026-07-06T13:51:40.518499+00:00",
+  "status_http": 200,
+  "content_hash": "5b8ec017fab4e1f58970d820d4676f8ddb5ac60741b071f25e0d014c000a3bff",
+  "screenshot_hash": "b49a38bf046259e260eae6e38fc743ea623cddaea83ea8ab6ddd17666c8b3de1",
+  "screenshot_path": "evidence/ev-045/screenshot.png",
+  "html_summary_path": "evidence/ev-045/page_summary.txt",
+  "page_title": "Sessão Plenária Ordinária do dia 09/06/2026. - Portal do TCE",
+  "audit_id": "tce-mt"
+}

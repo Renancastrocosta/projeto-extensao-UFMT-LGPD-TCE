@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-178",
+  "url": "https://escolasuperiordecontas.tce.mt.gov.br/noticia/tricotando-sobre-ouvidoria-do-tce-mt-aborda-funcao-do-ouvidor-e-perspectivas-futuras-nesta-quinta-feira-2",
+  "captured_at": "2026-07-06T13:52:35.116187+00:00",
+  "status_http": 200,
+  "content_hash": "2559b715d10fa3693f3097b4cd2cd1cab88cc2e4b4223ca9a1dcb74344cccace",
+  "screenshot_hash": "b44c08bbe911c373af44b5931022277835009ab1adeeaeb8c429ea18bb101fd2",
+  "screenshot_path": "evidence/ev-178/screenshot.png",
+  "html_summary_path": "evidence/ev-178/page_summary.txt",
+  "page_title": "Escola de Contas TCE MT",
+  "audit_id": "tce-mt"
+}

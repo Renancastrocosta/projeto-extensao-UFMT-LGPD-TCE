@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-009",
+  "url": "https://www.tce.mt.gov.br/instituto-memoria",
+  "captured_at": "2026-07-06T13:51:26.036987+00:00",
+  "status_http": 200,
+  "content_hash": "3b83d265fac5cd412595a9cbe72ca3fe18c5a808ae7786fbbc1840a39ddf8d8e",
+  "screenshot_hash": "0479b57d99ef45f9d6e0cffb154390ef861f9180ffd3efcae1f5ac22cfbf2b2b",
+  "screenshot_path": "evidence/ev-009/screenshot.png",
+  "html_summary_path": "evidence/ev-009/page_summary.txt",
+  "page_title": "Sobre o Instituto Memória - Portal do TCE",
+  "audit_id": "tce-mt"
+}

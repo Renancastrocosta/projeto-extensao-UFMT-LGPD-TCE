@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-077",
+  "url": "https://www.tce.mt.gov.br/fiscalize-corretamente/155",
+  "captured_at": "2026-07-06T13:51:55.578396+00:00",
+  "status_http": 200,
+  "content_hash": "8421ef9e0cbf932cf145829cb5153fb1f550410d4907301bfabb63773f64ff1e",
+  "screenshot_hash": "a2e4dcdbedae74e04c0fc6ed367ae1ef7baed7c5b65139b7c93727c36c169fd7",
+  "screenshot_path": "evidence/ev-077/screenshot.png",
+  "html_summary_path": "evidence/ev-077/page_summary.txt",
+  "page_title": "Fiscalize Corretamente - Portal do TCE",
+  "audit_id": "tce-mt"
+}

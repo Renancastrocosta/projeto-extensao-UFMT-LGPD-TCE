@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-017",
+  "url": "https://www.tce.mt.gov.br/planejamento-estrategico/704",
+  "captured_at": "2026-07-06T13:51:28.815714+00:00",
+  "status_http": 200,
+  "content_hash": "89d25f5d6d6352f64a811fbf049bd0d3a43a6c27204495e404f5285c3d4d788e",
+  "screenshot_hash": "b32bbada5f4892e2958ca47bebb5ec58c6fefb0d0fb17e9bc117871306434045",
+  "screenshot_path": "evidence/ev-017/screenshot.png",
+  "html_summary_path": "evidence/ev-017/page_summary.txt",
+  "page_title": "Planejamento Estratégico - Portal do TCE",
+  "audit_id": "tce-mt"
+}

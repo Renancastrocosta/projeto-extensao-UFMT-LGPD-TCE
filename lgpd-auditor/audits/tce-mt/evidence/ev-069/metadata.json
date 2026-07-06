@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-069",
+  "url": "https://radar.tce.mt.gov.br/extensions/radar-da-transparencia-publica/radar-da-transparencia-publica.html",
+  "captured_at": "2026-07-06T13:51:52.925421+00:00",
+  "status_http": 200,
+  "content_hash": "526b1348f9b4aca69bebe70bfd9f1afec693888862565ff611f0a2978cea9031",
+  "screenshot_hash": "7a9c65bed737d497bff897bd7c3855d75087179c470dc69b017b3efa954011b0",
+  "screenshot_path": "evidence/ev-069/screenshot.png",
+  "html_summary_path": "evidence/ev-069/page_summary.txt",
+  "page_title": "Portal Radar de Controle Público",
+  "audit_id": "tce-mt"
+}

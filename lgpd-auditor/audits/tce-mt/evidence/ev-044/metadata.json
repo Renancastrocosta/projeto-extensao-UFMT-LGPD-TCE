@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-044",
+  "url": "https://www.tce.mt.gov.br/documentos",
+  "captured_at": "2026-07-06T13:51:39.909883+00:00",
+  "status_http": 200,
+  "content_hash": "cfc9981835055e3aa45aa9c4848a56651b018aa22d25b696f16484fc22400b47",
+  "screenshot_hash": "edeaba710a37d6a5e98b86ad8ee26c6c161bcd9a38cf5e45372035abdc52bfd2",
+  "screenshot_path": "evidence/ev-044/screenshot.png",
+  "html_summary_path": "evidence/ev-044/page_summary.txt",
+  "page_title": "Triagem de Documentos - Portal do TCE",
+  "audit_id": "tce-mt"
+}

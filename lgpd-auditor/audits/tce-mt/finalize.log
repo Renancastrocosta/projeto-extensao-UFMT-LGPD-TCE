@@ -1,0 +1,32 @@
+Pipeline final — Tribunal de Contas do Estado de Mato Grosso
+Etapas: evidências → auditoria → relatório → export → validação
+
+=== PIPELINE FINAL CONCLUÍDO ===
+Rotas visitadas:        503
+Evidências capturadas:  496 (nesta sessão)
+Achados de auditoria:   764
+Relatório:              /home/renan/Documentos/LGDP - TCE MT/lgpd-auditor/audits/tce-mt/reports/relatorio-lgpd-tce-mt.md
+
+--- Validação RNF ---
+  [OK] Concorrência (workers): 5
+  [OK] Limite de páginas: 503
+  [OK] Memória: 210.4 MB (processo atual)
+  [OK] Checkpoint: presente
+  [OK] Cobertura de evidências: 503/503
+  [OK] Tempo de captura: 2.3 min
+
+--- Checklist MUST ---
+  Cobertura: 100%
+  [OK] Crawler com checkpoints: checkpoints/latest.json
+  [OK] Log de rotas visitadas: visited_routes.json
+  [OK] Screenshots e metadados: 503 evidências
+  [OK] legislation.yaml: legislation.yaml
+  [OK] audit_results.json: audit_results.json
+  [OK] Relatório estruturado: relatorio-lgpd-tce-mt.md
+  [OK] Anexo rotas = log: 503/503
+  [OK] Diário de Engenharia: engineering_diary.jsonl
+  [OK] Governança anti-alucinação: status/confiança em audit_results.json
+
+Validação salva em: /home/renan/Documentos/LGDP - TCE MT/lgpd-auditor/audits/tce-mt/validation_report.json
+
+Entrega APROVADA para submissão acadêmica.

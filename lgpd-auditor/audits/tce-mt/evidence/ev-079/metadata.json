@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-079",
+  "url": "https://www.tce.mt.gov.br/quadrimestral/949",
+  "captured_at": "2026-07-06T13:51:56.936422+00:00",
+  "status_http": 200,
+  "content_hash": "6262ae4eaaca672f138afbf9ddbeceff945ccf0045ff8844cf9770abf6351f5b",
+  "screenshot_hash": "a1cd1a74d980ac345c2e7d77f8488cf8cfd4aef2142ad199fbaa4a69e39ef28c",
+  "screenshot_path": "evidence/ev-079/screenshot.png",
+  "html_summary_path": "evidence/ev-079/page_summary.txt",
+  "page_title": "Relatório de Gestão - Portal do TCE",
+  "audit_id": "tce-mt"
+}

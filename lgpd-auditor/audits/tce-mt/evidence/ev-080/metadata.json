@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-080",
+  "url": "https://www.tce.mt.gov.br/plano-de-acao/984",
+  "captured_at": "2026-07-06T13:51:56.523952+00:00",
+  "status_http": 200,
+  "content_hash": "34f23445e70e7c080b90337eef817a9eabdd8803beb423a4088c698bf74f2ae8",
+  "screenshot_hash": "30d32f11709e41ee8b7827fbd4b0622f972bf18e389588272a8404e2839ece1b",
+  "screenshot_path": "evidence/ev-080/screenshot.png",
+  "html_summary_path": "evidence/ev-080/page_summary.txt",
+  "page_title": "Plano de Ação - Portal do TCE",
+  "audit_id": "tce-mt"
+}

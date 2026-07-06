@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-014",
+  "url": "https://escolasuperiordecontas.tce.mt.gov.br/",
+  "captured_at": "2026-07-06T13:51:30.040753+00:00",
+  "status_http": 200,
+  "content_hash": "0a91a0b1f8c2ce60847d6be55ed23fe1de7d98c66c265a10391b17c86534276d",
+  "screenshot_hash": "d313d3f13bcb5f8c4b41a935c8383dcffbc68311192de6bcf7e10d8d942a88bf",
+  "screenshot_path": "evidence/ev-014/screenshot.png",
+  "html_summary_path": "evidence/ev-014/page_summary.txt",
+  "page_title": "Escola de Contas TCE MT",
+  "audit_id": "tce-mt"
+}

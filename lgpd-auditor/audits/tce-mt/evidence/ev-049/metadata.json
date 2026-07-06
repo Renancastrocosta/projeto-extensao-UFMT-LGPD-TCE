@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-049",
+  "url": "https://www.tce.mt.gov.br/legislacoes/resolucao-normativa",
+  "captured_at": "2026-07-06T13:51:43.490041+00:00",
+  "status_http": 200,
+  "content_hash": "0308fc9b9fc6b80ec67682c1e4b8c8b81fdeee0d516fabb9e5a9c5858dec77f4",
+  "screenshot_hash": "b8a401a09a392e7e1d93a995af80185cb087616d0941dc54ea075f5dc39f33f3",
+  "screenshot_path": "evidence/ev-049/screenshot.png",
+  "html_summary_path": "evidence/ev-049/page_summary.txt",
+  "page_title": "Resolução Normativa - Portal do TCE",
+  "audit_id": "tce-mt"
+}

@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-056",
+  "url": "https://www.tce.mt.gov.br/legislacoes/instrucoes-normativas",
+  "captured_at": "2026-07-06T13:51:46.993272+00:00",
+  "status_http": 200,
+  "content_hash": "0cc7a43e10b82b4f01052165d12734c2d1e17ebd092f996ef3d7c21a3bec1e90",
+  "screenshot_hash": "086b59b0e00b0965310908b517381d5a5b427b95e34093e27f0d751e96b47bdd",
+  "screenshot_path": "evidence/ev-056/screenshot.png",
+  "html_summary_path": "evidence/ev-056/page_summary.txt",
+  "page_title": "Instruções Normativas - Portal do TCE",
+  "audit_id": "tce-mt"
+}

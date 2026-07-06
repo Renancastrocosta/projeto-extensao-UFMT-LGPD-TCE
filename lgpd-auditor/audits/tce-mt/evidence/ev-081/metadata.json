@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-081",
+  "url": "https://www.tce.mt.gov.br/ouvidoria-organizacional",
+  "captured_at": "2026-07-06T13:51:57.190414+00:00",
+  "status_http": 200,
+  "content_hash": "496ad97d0b0ddfbb515f93f59566aeb7696d7e6a1be878b5789a8736d202556d",
+  "screenshot_hash": "c54c723c8e72595877a774d67328d51f378fcbb90d78e91c6115a5d97bc2dd32",
+  "screenshot_path": "evidence/ev-081/screenshot.png",
+  "html_summary_path": "evidence/ev-081/page_summary.txt",
+  "page_title": "Organizacional - Portal do TCE",
+  "audit_id": "tce-mt"
+}

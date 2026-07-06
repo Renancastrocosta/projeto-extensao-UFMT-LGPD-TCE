@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-071",
+  "url": "https://hotsites.tce.mt.gov.br/",
+  "captured_at": "2026-07-06T13:51:53.320466+00:00",
+  "status_http": 200,
+  "content_hash": "4fa6c15bc325c37bf224537f510803632ac22555f3110e38ff1216d86f9d1e19",
+  "screenshot_hash": "02621eb5386a37744e76523f9d4f6546cab4513d260878f833e1ff801f4310fc",
+  "screenshot_path": "evidence/ev-071/screenshot.png",
+  "html_summary_path": "evidence/ev-071/page_summary.txt",
+  "page_title": "Páginas Temáticas - Hotsites - TCE-MT",
+  "audit_id": "tce-mt"
+}

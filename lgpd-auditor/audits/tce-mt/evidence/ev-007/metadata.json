@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-007",
+  "url": "https://www.tce.mt.gov.br/tribunal-pleno/609",
+  "captured_at": "2026-07-06T13:44:33.372408+00:00",
+  "status_http": 200,
+  "content_hash": "0375475a9a54367e0010119f20cf1099cf116228d6faa714c79908babdf87053",
+  "screenshot_hash": "4e0011bfc93c31834d422ff4b9b22fa8d3baf47dd4bf13e159c131ebd9378638",
+  "screenshot_path": "evidence/ev-007/screenshot.png",
+  "html_summary_path": "evidence/ev-007/page_summary.txt",
+  "page_title": "Composição - Portal do TCE",
+  "audit_id": "tce-mt"
+}

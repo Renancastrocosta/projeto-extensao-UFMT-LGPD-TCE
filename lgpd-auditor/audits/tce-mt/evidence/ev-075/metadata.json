@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-075",
+  "url": "https://www.tce.mt.gov.br/mapa-da-transparencia/731",
+  "captured_at": "2026-07-06T13:51:54.896239+00:00",
+  "status_http": 200,
+  "content_hash": "35e1214f3886fbf58ecd53f78fc3b4015c26199b65b0b19b03f35fe0bd7e0d33",
+  "screenshot_hash": "6317dbb1859c1cbb8148da86936000b84d825b68df4eed5ac87a775ac0fc20bb",
+  "screenshot_path": "evidence/ev-075/screenshot.png",
+  "html_summary_path": "evidence/ev-075/page_summary.txt",
+  "page_title": "Mapa - Portal do TCE",
+  "audit_id": "tce-mt"
+}

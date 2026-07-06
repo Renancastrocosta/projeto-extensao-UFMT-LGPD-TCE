@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-160",
+  "url": "https://escolasuperiordecontas.tce.mt.gov.br/pages/biblioteca-poeta-silva-freire",
+  "captured_at": "2026-07-06T13:52:23.011499+00:00",
+  "status_http": 200,
+  "content_hash": "66b5660cc692aa2257a7644105771c6a23a4941efb75897f0bf29f2641c654d4",
+  "screenshot_hash": "97e6de75a45a25ea3ca103841f19f12b2cc183bfa7e2efdb6cda3e30e81eeb21",
+  "screenshot_path": "evidence/ev-160/screenshot.png",
+  "html_summary_path": "evidence/ev-160/page_summary.txt",
+  "page_title": "Escola de Contas TCE MT",
+  "audit_id": "tce-mt"
+}

@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Dashboard LGPD — tce-mt</title>
+  <style>
+    * { box-sizing: border-box; }
+    body { font-family: system-ui, sans-serif; margin: 0; background: #f4f6f9; color: #1a1a1a; }
+    header { background: #0d3b66; color: white; padding: 1.5rem 2rem; }
+    main { padding: 2rem; max-width: 1100px; margin: 0 auto; }
+    .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin-bottom: 2rem; }
+    .card { background: white; border-radius: 8px; padding: 1.2rem; box-shadow: 0 1px 4px rgba(0,0,0,.1); }
+    .card h3 { margin: 0 0 .5rem; font-size: .85rem; color: #555; text-transform: uppercase; }
+    .card .valor { font-size: 2rem; font-weight: 700; color: #0d3b66; }
+    table { width: 100%; border-collapse: collapse; background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 1px 4px rgba(0,0,0,.1); }
+    th, td { padding: .75rem 1rem; text-align: left; border-bottom: 1px solid #eee; }
+    th { background: #e8f0fe; }
+    .badge { display: inline-block; padding: .2rem .6rem; border-radius: 12px; font-size: .8rem; font-weight: 600; }
+    .badge-confirmado { background: #d4edda; color: #155724; }
+    .badge-inferencia { background: #fff3cd; color: #856404; }
+    .badge-nao { background: #f8d7da; color: #721c24; }
+    .barra { height: 8px; background: #e0e0e0; border-radius: 4px; margin-top: .3rem; }
+    .barra-fill { height: 100%; background: #0d3b66; border-radius: 4px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Dashboard LGPD — Tribunal de Contas do Estado de Mato Grosso</h1>
+    <p>https://www.tce.mt.gov.br/ | Gerado em 2026-07-06T13:53:41.266721+00:00</p>
+  </header>
+  <main>
+    <div class="cards">
+      <div class="card"><h3>Rotas visitadas</h3><div class="valor">503</div></div>
+      <div class="card"><h3>Páginas analisadas</h3><div class="valor">503</div></div>
+      <div class="card"><h3>Total achados</h3><div class="valor">764</div></div>
+      <div class="card"><h3>Evidências capturadas</h3><div class="valor">503</div></div>
+    </div>
+
+    <h2>Status por seção LGPD</h2>
+    <table>
+      <tr><th>Seção</th><th>Título</th><th>Status</th><th>Confiança</th><th>Evidências</th></tr>
+      
+      <tr>
+        <td>4.1</td>
+        <td>Transparência e política de privacidade</td>
+        <td><span class="badge badge-confirmado">Confirmado</span></td>
+        <td>
+          Muito Alta (95%)
+          <div class="barra"><div class="barra-fill" style="width:95%"></div></div>
+        </td>
+        <td>66</td>
+      </tr>
+      
+      <tr>
+        <td>4.2</td>
+        <td>Coleta de dados</td>
+        <td><span class="badge badge-inferencia">Inferência</span></td>
+        <td>
+          Alta (85%)
+          <div class="barra"><div class="barra-fill" style="width:85%"></div></div>
+        </td>
+        <td>123</td>
+      </tr>
+      
+      <tr>
+        <td>4.3</td>
+        <td>Consentimento</td>
+        <td><span class="badge badge-confirmado">Confirmado</span></td>
+        <td>
+          Alta (85%)
+          <div class="barra"><div class="barra-fill" style="width:85%"></div></div>
+        </td>
+        <td>62</td>
+      </tr>
+      
+      <tr>
+        <td>4.4</td>
+        <td>Direitos do titular</td>
+        <td><span class="badge badge-confirmado">Confirmado</span></td>
+        <td>
+          Muito Alta (95%)
+          <div class="barra"><div class="barra-fill" style="width:95%"></div></div>
+        </td>
+        <td>12</td>
+      </tr>
+      
+      <tr>
+        <td>4.5</td>
+        <td>Segurança da informação</td>
+        <td><span class="badge badge-confirmado">Confirmado</span></td>
+        <td>
+          Alta (85%)
+          <div class="barra"><div class="barra-fill" style="width:85%"></div></div>
+        </td>
+        <td>437</td>
+      </tr>
+      
+      <tr>
+        <td>4.6</td>
+        <td>Cookies</td>
+        <td><span class="badge badge-confirmado">Confirmado</span></td>
+        <td>
+          Alta (85%)
+          <div class="barra"><div class="barra-fill" style="width:85%"></div></div>
+        </td>
+        <td>64</td>
+      </tr>
+      
+    </table>
+
+    <h2 style="margin-top:2rem">Distribuição de status (achados)</h2>
+    <table>
+      <tr><th>Status</th><th>Quantidade</th></tr>
+      
+      <tr><td>Confirmado</td><td>569</td></tr>
+      
+      <tr><td>Inferência</td><td>195</td></tr>
+      
+    </table>
+  </main>
+</body>
+</html>

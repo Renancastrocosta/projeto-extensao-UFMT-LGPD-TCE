@@ -1,0 +1,16 @@
+# Python
+lgpd-auditor/.venv/
+**/__pycache__/
+**/*.pyc
+.pytest_cache/
+*.egg-info/
+
+# IDE
+.cursor/
+.vscode/
+
+# Opcional: não versionar screenshots (descomente se escolher Opção A)
+# lgpd-auditor/audits/tce-mt/evidence/**/screenshot.png
+
+# Logs locais
+lgpd-auditor/audits/tce-mt/finalize.log

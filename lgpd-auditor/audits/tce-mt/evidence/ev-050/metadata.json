@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-050",
+  "url": "https://www.tce.mt.gov.br/legislacoes/codigo-de-processo-de-controle-externo",
+  "captured_at": "2026-07-06T13:51:43.774007+00:00",
+  "status_http": 200,
+  "content_hash": "84e547a2f1210842ce780ec71387c43f9e83799816c075d839729b5916d6ae91",
+  "screenshot_hash": "760feb07d18d7cdbd00bd2b44473717ac410164338e8e68999f098808fb8f8e2",
+  "screenshot_path": "evidence/ev-050/screenshot.png",
+  "html_summary_path": "evidence/ev-050/page_summary.txt",
+  "page_title": "Código de Processo de Controle Externo - Portal do TCE",
+  "audit_id": "tce-mt"
+}

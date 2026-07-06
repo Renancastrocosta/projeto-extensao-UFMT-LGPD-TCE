@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-312",
+  "url": "https://limesurvey.tce.mt.gov.br/index.php/425193",
+  "captured_at": "2026-07-06T13:52:58.168238+00:00",
+  "status_http": 200,
+  "content_hash": "d040403479c71f4754706aeaeb926caf0cde6390cfe2a128566a05ec7e6ef9ea",
+  "screenshot_hash": "bcf112597333eb9342599a7410390b81e4250c36a26f847cb2f392add5cf2d01",
+  "screenshot_path": "evidence/ev-312/screenshot.png",
+  "html_summary_path": "evidence/ev-312/page_summary.txt",
+  "page_title": "",
+  "audit_id": "tce-mt"
+}

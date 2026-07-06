@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-174",
+  "url": "https://escolasuperiordecontas.tce.mt.gov.br/acoes-educacionais",
+  "captured_at": "2026-07-06T13:52:36.674646+00:00",
+  "status_http": 200,
+  "content_hash": "5980d353b77d9e925b791143aa17e4ffc2c7a6b543034fcf1fdd4e43564b7d69",
+  "screenshot_hash": "294cb1563afc1b801a47373fbe2e1c94768a4bd39edfe01448ab5c3a54be8cf2",
+  "screenshot_path": "evidence/ev-174/screenshot.png",
+  "html_summary_path": "evidence/ev-174/page_summary.txt",
+  "page_title": "Escola de Contas TCE MT",
+  "audit_id": "tce-mt"
+}

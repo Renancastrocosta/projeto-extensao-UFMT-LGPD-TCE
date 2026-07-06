@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-084",
+  "url": "https://conta.tce.mt.gov.br/oauth/authorize?client_id=22&redirect_uri=https://www.tce.mt.gov.br/login/callback&response_type=code&scope=info&state=GzNkLvzXaYEqSCRZGVU7YRDKWet6Fg6bgFCkfF55",
+  "captured_at": "2026-07-06T13:51:57.857804+00:00",
+  "status_http": 200,
+  "content_hash": "4f4198ba95d3470fdfac7722536f0a9ba029f4e74f78a145e6bba9c015b23ae5",
+  "screenshot_hash": "1fd412e6e435ea0af0362b006a44ee7ebd1db5cda1452480b0580161647e8864",
+  "screenshot_path": "evidence/ev-084/screenshot.png",
+  "html_summary_path": "evidence/ev-084/page_summary.txt",
+  "page_title": "TCEMT | Conta TCE",
+  "audit_id": "tce-mt"
+}

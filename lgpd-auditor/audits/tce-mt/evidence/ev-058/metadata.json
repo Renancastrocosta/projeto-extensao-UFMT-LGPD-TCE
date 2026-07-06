@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-058",
+  "url": "https://www.tce.mt.gov.br/legislacoes/resolucao-de-consulta",
+  "captured_at": "2026-07-06T13:51:48.404730+00:00",
+  "status_http": 200,
+  "content_hash": "9359ddab11a68d1f35423607d95abf12016006a1afa62d6cdc00263f865fb879",
+  "screenshot_hash": "099b1ae402da9c7008aa264b2acacb6bab4b6d644e1ee8879559167b294e9929",
+  "screenshot_path": "evidence/ev-058/screenshot.png",
+  "html_summary_path": "evidence/ev-058/page_summary.txt",
+  "page_title": "Resolução de Consulta - Portal do TCE",
+  "audit_id": "tce-mt"
+}

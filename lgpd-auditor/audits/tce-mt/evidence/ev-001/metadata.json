@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-001",
+  "url": "https://www.tce.mt.gov.br/",
+  "captured_at": "2026-07-06T13:41:10.251006+00:00",
+  "status_http": 200,
+  "content_hash": "c7036677beded69c44a25efaebbca12df48146d23aeb4b48ad3bc08486ff3e53",
+  "screenshot_hash": "23ccf4fdc4d2f8aa9da548f971f381da07ea3f8f38508c40e4c198dab90a1ccf",
+  "screenshot_path": "evidence/ev-001/screenshot.png",
+  "html_summary_path": "evidence/ev-001/page_summary.txt",
+  "page_title": "Portal do TCE-MT - Portal do TCE",
+  "audit_id": "tce-mt"
+}

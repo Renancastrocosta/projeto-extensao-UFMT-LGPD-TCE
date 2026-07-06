@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-019",
+  "url": "https://servicos.tce.mt.gov.br/",
+  "captured_at": "2026-07-06T13:51:30.293808+00:00",
+  "status_http": 200,
+  "content_hash": "eba4507d24cb22f002686599ab3bc0638791fcfb5691b8c0dc2cc684d2fa9405",
+  "screenshot_hash": "a748274740437f9fd2bec28dc84c738395c947e91a183ffa12af8d9aee74365c",
+  "screenshot_path": "evidence/ev-019/screenshot.png",
+  "html_summary_path": "evidence/ev-019/page_summary.txt",
+  "page_title": "Portal de Serviços / TCE-MT",
+  "audit_id": "tce-mt"
+}

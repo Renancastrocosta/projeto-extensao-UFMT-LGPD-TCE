@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-016",
+  "url": "https://www.tce.mt.gov.br/lgpd",
+  "captured_at": "2026-07-06T13:51:28.940865+00:00",
+  "status_http": 200,
+  "content_hash": "9c6e4a4f42baf46166551dc7c22babba533cb3e806237cecf49709eea3fd48e2",
+  "screenshot_hash": "44b9563261b06a29737c67fd8df325fcfedeb314ea7a6c7ce3c6096ae856fb8b",
+  "screenshot_path": "evidence/ev-016/screenshot.png",
+  "html_summary_path": "evidence/ev-016/page_summary.txt",
+  "page_title": "LGPD no TCE-MT - Portal do TCE",
+  "audit_id": "tce-mt"
+}

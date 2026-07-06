@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-028",
+  "url": "https://www.tce.mt.gov.br/assinatura",
+  "captured_at": "2026-07-06T13:51:33.257299+00:00",
+  "status_http": 200,
+  "content_hash": "421128c20638a8afd9e2989881259b9b0e14d330a9a35483adb891d9739a1b18",
+  "screenshot_hash": "668a3b0bb54ff25bb0bb3e74e65f1de5901d5dd89ef5b3794076e5ddfbc7a173",
+  "screenshot_path": "evidence/ev-028/screenshot.png",
+  "html_summary_path": "evidence/ev-028/page_summary.txt",
+  "page_title": "Validação de Assinatura Digital - Portal do TCE",
+  "audit_id": "tce-mt"
+}

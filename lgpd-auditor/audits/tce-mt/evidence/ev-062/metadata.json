@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-062",
+  "url": "https://www.tce.mt.gov.br/noticias",
+  "captured_at": "2026-07-06T13:51:49.555556+00:00",
+  "status_http": 200,
+  "content_hash": "fb0e428c0bf6b2ba4afe4c57bc02c6bda037d79136984a92087da03fc0bbf208",
+  "screenshot_hash": "422f685233776b91100da69eca84665a754c287891f31c963d39e4b41402afa1",
+  "screenshot_path": "evidence/ev-062/screenshot.png",
+  "html_summary_path": "evidence/ev-062/page_summary.txt",
+  "page_title": "Notícias - Portal do TCE",
+  "audit_id": "tce-mt"
+}

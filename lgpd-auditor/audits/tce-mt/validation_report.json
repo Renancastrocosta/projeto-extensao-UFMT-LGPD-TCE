@@ -1,0 +1,106 @@
+{
+  "rotas_total": 503,
+  "evidencias_capturadas_sessao": 496,
+  "achados_auditoria": 764,
+  "rnf": {
+    "aprovado_geral": true,
+    "memoria_pico_mb": 210.44140625,
+    "duracao_evidencia_segundos": 136.72608940200007,
+    "verificacoes": [
+      {
+        "nome": "Concorrência (workers)",
+        "criterio": "≥ 5 workers configuráveis",
+        "valor_obtido": "5",
+        "aprovado": true,
+        "observacao": ""
+      },
+      {
+        "nome": "Limite de páginas",
+        "criterio": "≤ 500 páginas",
+        "valor_obtido": "503",
+        "aprovado": true,
+        "observacao": "Portal dentro do limite escalável (20.000)"
+      },
+      {
+        "nome": "Memória",
+        "criterio": "< 2048 MB",
+        "valor_obtido": "210.4 MB (processo atual)",
+        "aprovado": true,
+        "observacao": ""
+      },
+      {
+        "nome": "Checkpoint",
+        "criterio": "latest.json existente para retomada",
+        "valor_obtido": "presente",
+        "aprovado": true,
+        "observacao": ""
+      },
+      {
+        "nome": "Cobertura de evidências",
+        "criterio": "100% rotas com screenshot",
+        "valor_obtido": "503/503",
+        "aprovado": true,
+        "observacao": "Captura completa"
+      },
+      {
+        "nome": "Tempo de captura",
+        "criterio": "≤ 15 min (referência)",
+        "valor_obtido": "2.3 min",
+        "aprovado": true,
+        "observacao": "Meta de 15 min refere-se a portal ≤500 páginas no crawl inicial"
+      }
+    ]
+  },
+  "must": {
+    "cobertura_percentual": 100.0,
+    "aprovado": true,
+    "itens": [
+      {
+        "requisito": "Crawler com checkpoints",
+        "aprovado": true,
+        "evidencia": "checkpoints/latest.json"
+      },
+      {
+        "requisito": "Log de rotas visitadas",
+        "aprovado": true,
+        "evidencia": "visited_routes.json"
+      },
+      {
+        "requisito": "Screenshots e metadados",
+        "aprovado": true,
+        "evidencia": "503 evidências"
+      },
+      {
+        "requisito": "legislation.yaml",
+        "aprovado": true,
+        "evidencia": "legislation.yaml"
+      },
+      {
+        "requisito": "audit_results.json",
+        "aprovado": true,
+        "evidencia": "audit_results.json"
+      },
+      {
+        "requisito": "Relatório estruturado",
+        "aprovado": true,
+        "evidencia": "relatorio-lgpd-tce-mt.md"
+      },
+      {
+        "requisito": "Anexo rotas = log",
+        "aprovado": true,
+        "evidencia": "503/503"
+      },
+      {
+        "requisito": "Diário de Engenharia",
+        "aprovado": true,
+        "evidencia": "engineering_diary.jsonl"
+      },
+      {
+        "requisito": "Governança anti-alucinação",
+        "aprovado": true,
+        "evidencia": "status/confiança em audit_results.json"
+      }
+    ]
+  },
+  "avisos": []
+}

@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-183",
+  "url": "https://escolasuperiordecontas.tce.mt.gov.br/galerias/i-encontro-t-cnico-sobre-a-reforma-tribut-ria-para-munic-pios/782",
+  "captured_at": "2026-07-06T13:52:40.497284+00:00",
+  "status_http": 200,
+  "content_hash": "f612b1e0e3c30739a368118d3f8e7a1849d8348c55301eb3d991795ab38f32fd",
+  "screenshot_hash": "918b2c330ec1c0238827b21f5cc38c5c7332026e3ab901dec5c34b8e3830e3ef",
+  "screenshot_path": "evidence/ev-183/screenshot.png",
+  "html_summary_path": "evidence/ev-183/page_summary.txt",
+  "page_title": "Escola de Contas TCE MT",
+  "audit_id": "tce-mt"
+}

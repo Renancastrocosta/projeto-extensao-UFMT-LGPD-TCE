@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-458",
+  "url": "https://plenariovirtual.tce.mt.gov.br/pauta/2026-05-25/V/3/votacao/13307/2021",
+  "captured_at": "2026-07-06T13:53:25.576961+00:00",
+  "status_http": 200,
+  "content_hash": "358adfcf7fdb02d9069af9fb8e55ec468897ae22b76965a27cd1bac3f361c9b4",
+  "screenshot_hash": "dabdf980952bce7d37f1e80e996f9e5bde31798c104d47b07ec5285d1490868b",
+  "screenshot_path": "evidence/ev-458/screenshot.png",
+  "html_summary_path": "evidence/ev-458/page_summary.txt",
+  "page_title": "Plenário Virtual - Tribunal de Contas de Mato Grosso",
+  "audit_id": "tce-mt"
+}

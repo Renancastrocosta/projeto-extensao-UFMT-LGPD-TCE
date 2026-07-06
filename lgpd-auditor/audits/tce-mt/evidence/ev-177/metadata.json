@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-177",
+  "url": "https://escolasuperiordecontas.tce.mt.gov.br/noticia/tricotando-sobre-ouvidoria-conselheiro-defende-estruturacao-das-ouvidorias-e-destaca-contribuicao-do-tce-mt",
+  "captured_at": "2026-07-06T13:52:32.359318+00:00",
+  "status_http": 200,
+  "content_hash": "a8ab4229ee135758ce8d41aa68126f356a29fd1f6a5970f13fbe288e7657f75d",
+  "screenshot_hash": "549691240dcf63c2e2b34692618b1ab1ebccee98188caf69b4d1e5a9c4a2b06f",
+  "screenshot_path": "evidence/ev-177/screenshot.png",
+  "html_summary_path": "evidence/ev-177/page_summary.txt",
+  "page_title": "Escola de Contas TCE MT",
+  "audit_id": "tce-mt"
+}

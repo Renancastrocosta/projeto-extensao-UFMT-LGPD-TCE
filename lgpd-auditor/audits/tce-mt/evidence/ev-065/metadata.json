@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-065",
+  "url": "https://sistema7.tce.mt.gov.br/jusconex-externo/tese",
+  "captured_at": "2026-07-06T13:51:52.379943+00:00",
+  "status_http": 200,
+  "content_hash": "a029f6a71ab5b01ab603306ea2d5dbc24e119b905049d312a2077e211a45e759",
+  "screenshot_hash": "b30c8f29e5d6d3dd4aac6e278f565d35bd318e6800e6e287cd05a932d128854e",
+  "screenshot_path": "evidence/ev-065/screenshot.png",
+  "html_summary_path": "evidence/ev-065/page_summary.txt",
+  "page_title": "Jusconex",
+  "audit_id": "tce-mt"
+}

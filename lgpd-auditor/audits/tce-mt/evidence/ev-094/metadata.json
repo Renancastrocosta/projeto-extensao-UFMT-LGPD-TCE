@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-094",
+  "url": "https://www.tce.mt.gov.br/galeria/lancamento-do-livro-a-mesa-tecnica-nos-tribunais-de-contas/4797",
+  "captured_at": "2026-07-06T13:52:02.555830+00:00",
+  "status_http": 200,
+  "content_hash": "e274d73a1802ee1d31a17509fad813478a58360505fbaae3361288a6d5dd8c6a",
+  "screenshot_hash": "8b234409c0119cc2852e6f20516382dc0911afd31a95f5243ba052bc33956ec4",
+  "screenshot_path": "evidence/ev-094/screenshot.png",
+  "html_summary_path": "evidence/ev-094/page_summary.txt",
+  "page_title": "Lançamento do livro A Mesa Técnica nos Tribunais de Contas - Portal do TCE",
+  "audit_id": "tce-mt"
+}

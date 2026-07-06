@@ -1,0 +1,143 @@
+# Relatório de Conformidade LGPD — {{ portal_nome }}
+
+**Auditoria:** {{ audit_id }}  
+**Portal:** {{ url_base }}  
+**Gerado em:** {{ gerado_em }}  
+**Ferramenta:** LGPD Auditor v{{ versao_ferramenta }}
+
+---
+
+## 1. Introdução
+
+Este relatório apresenta a análise de conformidade com a Lei Geral de Proteção de Dados Pessoais (Lei nº 13.709/2018 — LGPD) do portal institucional do **{{ portal_nome }}**, disponível em {{ url_base }}.
+
+A análise foi conduzida com apoio da ferramenta automatizada LGPD Auditor, seguindo governança anti-alucinação: toda conclusão possui status (`Confirmado`, `Inferência`, `Hipótese` ou `Não Localizado`), nível de confiança e referência a `evidence_id`.
+
+---
+
+## 2. Metodologia
+
+### 2.1 Abordagem
+
+1. **Crawler BFS** com Playwright ({{ max_workers }} workers) limitado ao domínio `{{ dominio }}`
+2. **Respeito a robots.txt** e rate limiting de {{ rate_limit }}s entre requisições
+3. **Captura de evidências**: screenshot full-page, resumo HTML e metadados com hash SHA-256
+4. **Auditoria heurística LGPD** baseada em `legislation.yaml` (regras 4.1–4.6)
+5. **Classificação** com status e confiança por achado
+
+### 2.2 Cobertura da navegação
+
+| Métrica | Valor |
+|---------|-------|
+| Total de rotas visitadas | {{ total_rotas }} |
+| Rotas com screenshot | {{ rotas_com_screenshot }} |
+| Rotas com erro HTTP (4xx/5xx) | {{ rotas_com_erro_http }} |
+| Rotas bloqueadas (robots.txt) | {{ rotas_bloqueadas }} |
+| Páginas analisadas (auditoria) | {{ total_paginas_analisadas }} |
+| Total de achados | {{ total_achados }} |
+
+---
+
+## 3. Ambiente Analisado
+
+- **Instituição:** {{ portal_nome }}
+- **URL base:** {{ url_base }}
+- **Domínio:** {{ dominio }}
+- **Legislação de referência:** Lei 13.709/2018 (LGPD), orientações ANPD, ISO 27001/27701, OWASP
+
+---
+
+## 4. Análise de Conformidade LGPD
+
+{% for secao_id, resumo in secoes_ordenadas %}
+### 4.{{ loop.index }} {{ resumo.titulo }}
+
+| Campo | Valor |
+|-------|-------|
+| **Status** | {{ resumo.status }} |
+| **Confiança** | {{ resumo.confianca }} ({{ resumo.percentual }}%) |
+| **Achados** | {{ resumo.total_achados }} |
+| **Evidências** | {{ resumo.evidence_ids | join(', ') if resumo.evidence_ids else 'Nenhuma' }} |
+| **Fundamentação** | {{ resumo.fundamentacao_legal | join(', ') }} |
+
+{% if resumo.mensagem %}{{ resumo.mensagem }}{% endif %}
+
+{% if achados_por_secao.get(secao_id) %}
+**Detalhes dos achados:**
+
+{% for achado in achados_por_secao[secao_id] %}
+- **{{ achado.evidence_ids | join(', ') }}** — [{{ achado.url }}]({{ achado.url }})
+  - Status: {{ achado.status }} | Confiança: {{ achado.confianca }} ({{ achado.percentual }}%)
+  - {{ achado.detalhes }}
+  {% if achado.termos_encontrados %}- Termos: {{ achado.termos_encontrados | join(', ') }}{% endif %}
+
+{% endfor %}
+{% endif %}
+
+{% endfor %}
+
+---
+
+## 5. Uso da Inteligência Artificial
+
+A ferramenta LGPD Auditor utiliza **classificadores heurísticos** (não generativos) para análise inicial. A IA generativa **não foi utilizada** nesta fase para emitir conclusões — todas as afirmações derivam de evidências coletadas automaticamente.
+
+Critérios aplicados:
+- Evidências verificáveis com `evidence_id`
+- Reprodutibilidade via `audit_results.json`
+- Em dúvida: `Não Localizado` em vez de inferência sem base
+
+---
+
+## 6. Resultados e Achados
+
+### Resumo executivo
+
+{% for secao_id, resumo in secoes_ordenadas %}
+- **{{ secao_id }}** {{ resumo.titulo }}: **{{ resumo.status }}** ({{ resumo.confianca }}, {{ resumo.percentual }}%)
+{% endfor %}
+
+---
+
+## 7. Recomendações
+
+{% for recomendacao in recomendacoes %}
+{{ loop.index }}. {{ recomendacao }}
+{% endfor %}
+
+---
+
+## 8. Conclusão
+
+A auditoria automatizada do portal **{{ portal_nome }}** identificou {{ total_achados }} achados em {{ total_paginas_analisadas }} páginas analisadas com evidência documental, sobre {{ total_rotas }} rotas visitadas.
+
+Os resultados devem ser interpretados como **diagnóstico exploratório** com apoio de automação, sujeito a revisão humana qualificada antes de qualquer decisão institucional.
+
+---
+
+## 9. Referências
+
+- Lei nº 13.709/2018 (LGPD)
+- Autoridade Nacional de Proteção de Dados (ANPD) — [https://www.gov.br/anpd](https://www.gov.br/anpd)
+- ISO/IEC 27001:2022 — Segurança da informação
+- ISO/IEC 27701:2019 — Privacidade da informação
+- OWASP Top 10 — 2021
+
+---
+
+{{ diario_engenharia }}
+
+---
+
+## Anexo A — Rotas Visitadas (Evidência de Cobertura)
+
+> Exportação CSV disponível em: `visited_routes.csv`
+
+| Ordem | URL | HTTP | Evidence ID | Screenshot | Visitada em |
+|-------|-----|------|-------------|------------|-------------|
+{% for rota in rotas %}| {{ rota.ordem }} | [{{ rota.url }}]({{ rota.url }}) | {{ rota.status_http or '—' }} | {{ rota.evidence_id }} | {{ rota.screenshot or '—' }} | {{ rota.visitada_em }} |
+{% endfor %}
+
+---
+
+*Relatório gerado automaticamente por LGPD Auditor. Reprodutível a partir de `audit_results.json` e `visited_routes.json`.*

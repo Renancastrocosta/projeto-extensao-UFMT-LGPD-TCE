@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-095",
+  "url": "https://www.tce.mt.gov.br/artigos/fortalecimento-do-controle-social-do-sus-em-mato-grosso/625",
+  "captured_at": "2026-07-06T13:52:02.936904+00:00",
+  "status_http": 200,
+  "content_hash": "f7c350483e469a2cac315dbc46a7993376c90cd22fe6acb5668a6997fff2ea38",
+  "screenshot_hash": "fb2d3b1349381cae885c4d336b9062407898b632c46bff2ff69863b44e578164",
+  "screenshot_path": "evidence/ev-095/screenshot.png",
+  "html_summary_path": "evidence/ev-095/page_summary.txt",
+  "page_title": "Fortalecimento do Controle Social do SUS em Mato Grosso - Portal do TCE",
+  "audit_id": "tce-mt"
+}

@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-272",
+  "url": "https://servicos.tce.mt.gov.br/inabilitacao-exercicio",
+  "captured_at": "2026-07-06T13:52:52.452481+00:00",
+  "status_http": 200,
+  "content_hash": "b0ec5d8a3cbff6f7606869cba0e8a92c24c18719e5f2eea8ffb625f85e6f653e",
+  "screenshot_hash": "9af9c76e0fcbfc2102ad0f5bc98ad3fad741ecdd3b5e6ee91d5328dd128d470e",
+  "screenshot_path": "evidence/ev-272/screenshot.png",
+  "html_summary_path": "evidence/ev-272/page_summary.txt",
+  "page_title": ":: Portal de Serviços / TCE-MT",
+  "audit_id": "tce-mt"
+}

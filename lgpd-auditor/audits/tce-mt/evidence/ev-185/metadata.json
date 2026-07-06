@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-185",
+  "url": "https://escolasuperiordecontas.tce.mt.gov.br/galerias",
+  "captured_at": "2026-07-06T13:52:40.783057+00:00",
+  "status_http": 200,
+  "content_hash": "973f93db861ea07dc1609f9197e1bf8802f3bc73f96ac36ea58a7e443d339ee6",
+  "screenshot_hash": "c163ed37de3adb309e161df4e9642018c340cded020fbb438c3f4e9bc0b0cf76",
+  "screenshot_path": "evidence/ev-185/screenshot.png",
+  "html_summary_path": "evidence/ev-185/page_summary.txt",
+  "page_title": "Escola de Contas TCE MT",
+  "audit_id": "tce-mt"
+}

@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-479",
+  "url": "https://plenariovirtual.tce.mt.gov.br/pauta/2026-05-25/V/3/discussao/2035839/2025",
+  "captured_at": "2026-07-06T13:53:32.422128+00:00",
+  "status_http": 200,
+  "content_hash": "2ca602d1f2c260e38201ac45e7639f6aafea5593c68c8821eb091c5add4e3166",
+  "screenshot_hash": "ffb7c15d51a43ea9194fc915850b898abcb5e3660a49e3185bd9a80d7ca08ca6",
+  "screenshot_path": "evidence/ev-479/screenshot.png",
+  "html_summary_path": "evidence/ev-479/page_summary.txt",
+  "page_title": "Plenário Virtual - Tribunal de Contas de Mato Grosso",
+  "audit_id": "tce-mt"
+}

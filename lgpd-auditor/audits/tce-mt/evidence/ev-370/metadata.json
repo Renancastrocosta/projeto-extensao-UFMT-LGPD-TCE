@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-370",
+  "url": "https://qapradar.tce.mt.gov.br/extensions/igfm/index.html",
+  "captured_at": "2026-07-06T13:53:06.202335+00:00",
+  "status_http": 200,
+  "content_hash": "091fabf294cf040724c5d96259362e682c4ac563ece65b545f8d5913a4d7d133",
+  "screenshot_hash": "1298d4dc7c21568d85b47d775659fdf58dc2a3ea82d3b835131569accb413252",
+  "screenshot_path": "evidence/ev-370/screenshot.png",
+  "html_summary_path": "evidence/ev-370/page_summary.txt",
+  "page_title": "IGFM",
+  "audit_id": "tce-mt"
+}

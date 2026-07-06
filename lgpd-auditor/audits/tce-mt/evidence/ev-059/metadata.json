@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-059",
+  "url": "https://www.tce.mt.gov.br/publicacao/boletim-da-jurisprudencia/21",
+  "captured_at": "2026-07-06T13:51:49.084952+00:00",
+  "status_http": 200,
+  "content_hash": "391725e14a93addf08ce0b1b8ab8d4ccebd16af8fb39b8aaa92a8dad2701d8dd",
+  "screenshot_hash": "dd7bfb58e440ae2746b1c10f41bd6ea8347e9fddb596550669ae033f409fb17a",
+  "screenshot_path": "evidence/ev-059/screenshot.png",
+  "html_summary_path": "evidence/ev-059/page_summary.txt",
+  "page_title": "Boletim de Jurisprudência - Portal do TCE",
+  "audit_id": "tce-mt"
+}

@@ -1,0 +1,28 @@
+audit:
+  id: tce-mt
+  nome: "Tribunal de Contas do Estado de Mato Grosso"
+  url_base: "https://www.tce.mt.gov.br/"
+  dominio_permitido: "tce.mt.gov.br"
+
+crawler:
+  max_workers: 5
+  max_paginas: 500
+  max_paginas_escalavel: 20000
+  rate_limit_segundos: 0.5
+  timeout_segundos: 30
+  respeitar_robots_txt: true
+  user_agent: "LGPD-Auditor/0.1.0 (auditoria-academica; +https://www.tce.mt.gov.br)"
+
+performance:
+  tempo_maximo_minutos: 15
+  memoria_maxima_mb: 2048
+
+paths:
+  audit_dir: "audits/tce-mt"
+  checkpoints: "audits/tce-mt/checkpoints"
+  evidence: "audits/tce-mt/evidence"
+  visited_routes: "audits/tce-mt/visited_routes.json"
+  reports: "audits/tce-mt/reports"
+  engineering_diary: "audits/tce-mt/engineering_diary.jsonl"
+
+legislation: "legislation.yaml"

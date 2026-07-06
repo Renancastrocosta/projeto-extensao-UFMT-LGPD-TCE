@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-182",
+  "url": "https://escolasuperiordecontas.tce.mt.gov.br/galerias/tcestudantil-recebe-alunos-de-ci-ncias-cont-beis-da-unemat-de-tangar-da-serra/783",
+  "captured_at": "2026-07-06T13:52:38.589754+00:00",
+  "status_http": 200,
+  "content_hash": "82b36da5a42775a2f8c018cb1d243cd7f5e2067e7b189f5434ad793c3098a760",
+  "screenshot_hash": "d82032965ff999aee079321c112b0f71080f505b57319a39597576ac0c64b3ec",
+  "screenshot_path": "evidence/ev-182/screenshot.png",
+  "html_summary_path": "evidence/ev-182/page_summary.txt",
+  "page_title": "Escola de Contas TCE MT",
+  "audit_id": "tce-mt"
+}

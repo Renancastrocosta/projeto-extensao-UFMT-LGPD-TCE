@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-162",
+  "url": "https://escolasuperiordecontas.tce.mt.gov.br/acervo",
+  "captured_at": "2026-07-06T13:52:24.481603+00:00",
+  "status_http": 200,
+  "content_hash": "c8703be269d4ad2b7d35ec0c88952153e92960d88049469f22a60ae8954b27fa",
+  "screenshot_hash": "bbe29b6c8e94b8289f881874513f6f27a2d9f6d8f1f0105aa8d70e7cb500ee02",
+  "screenshot_path": "evidence/ev-162/screenshot.png",
+  "html_summary_path": "evidence/ev-162/page_summary.txt",
+  "page_title": "Escola de Contas TCE MT",
+  "audit_id": "tce-mt"
+}

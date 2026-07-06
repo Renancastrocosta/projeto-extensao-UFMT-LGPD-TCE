@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-048",
+  "url": "https://www.tce.mt.gov.br/legislacoes/lei-organica",
+  "captured_at": "2026-07-06T13:51:43.731782+00:00",
+  "status_http": 200,
+  "content_hash": "7504d5c79428ab209ba14097388020823c91ae2358a924bc67f608d92d861032",
+  "screenshot_hash": "9fbd3d11faa574202b8481f41d9b225c3b5d3f301db14c02bbd30ce3f8e48bf3",
+  "screenshot_path": "evidence/ev-048/screenshot.png",
+  "html_summary_path": "evidence/ev-048/page_summary.txt",
+  "page_title": "Lei Orgânica - Portal do TCE",
+  "audit_id": "tce-mt"
+}

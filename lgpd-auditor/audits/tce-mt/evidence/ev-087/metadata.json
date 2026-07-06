@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-087",
+  "url": "https://www.tce.mt.gov.br/noticias/tricotando-sobre-ouvidoria-conselheiro-defende-estruturacao-das-ouvidorias-e-destaca-contribuicao-do-tce-mt/62635",
+  "captured_at": "2026-07-06T13:51:58.901777+00:00",
+  "status_http": 200,
+  "content_hash": "51ad548d95a9009eb6884aac03eea06ad8532acb7ae625c3e1631b8c3bcd3a03",
+  "screenshot_hash": "5d88f9ff3e57ba1e6c5392848fdd0d99910fd0b1e3dd0e417d16af66930d3064",
+  "screenshot_path": "evidence/ev-087/screenshot.png",
+  "html_summary_path": "evidence/ev-087/page_summary.txt",
+  "page_title": "Tricotando sobre Ouvidoria: conselheiro defende estruturação das ouvidorias e destaca contribuição do TCE-MT - Portal do TCE",
+  "audit_id": "tce-mt"
+}

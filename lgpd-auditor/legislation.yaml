@@ -1,0 +1,109 @@
+# Versionamento das normas utilizadas na auditoria LGPD.
+# Quando uma norma sofrer alteração, registrar no Diário de Engenharia:
+# "Norma alterada. Necessária revisão das regras de conformidade."
+
+lgpd:
+  lei: 13709
+  versão: vigente
+  artigos_relevantes:
+  - art. 6    # Princípios
+  - art. 7    # Bases legais
+  - art. 8    # Consentimento
+  - art. 9    # Transparência
+  - art. 18   # Direitos do titular
+  - art. 41   # Encarregado (DPO)
+  - art. 46   # Segurança
+
+anpd:
+  última_atualização: "2026-01-01"
+  referências:
+  - Guia Orientativo para Definições dos Agentes de Tratamento
+  - Guia de Boas Práticas — Segurança da Informação
+
+iso27001:
+  versão: "2022"
+  controles_relevantes:
+  - A.5.1   # Políticas de segurança da informação
+  - A.8.2   # Privilégios de acesso
+  - A.8.24  # Uso de criptografia
+
+iso27701:
+  versão: "2019"
+  controles_relevantes:
+  - 7.2.1   # Identificação de finalidade
+  - 7.2.2   # Identificação de bases legais
+  - 7.3.1   # Direitos dos titulares
+
+owasp:
+  versão: "2021"
+  categorias_relevantes:
+  - A01:2021  # Broken Access Control
+  - A02:2021  # Cryptographic Failures
+  - A05:2021  # Security Misconfiguration
+
+regras_conformidade:
+  transparencia:
+    id: "4.1"
+    descricao: "Política de privacidade acessível e clara"
+    prioridade: P0
+    keywords:
+    - privacidade
+    - política de privacidade
+    - proteção de dados
+    - dados pessoais
+    fundamentacao: ["art. 9 LGPD"]
+
+  coleta_dados:
+    id: "4.2"
+    descricao: "Formulários e campos de coleta identificados"
+    prioridade: P2
+    keywords:
+    - formulário
+    - cadastro
+    - e-mail
+    - cpf
+    - telefone
+    fundamentacao: ["art. 7 LGPD", "art. 9 LGPD"]
+
+  consentimento:
+    id: "4.3"
+    descricao: "Mecanismos de consentimento explícito"
+    prioridade: P0
+    keywords:
+    - consentimento
+    - aceito
+    - concordo
+    - opt-in
+    fundamentacao: ["art. 8 LGPD"]
+
+  direitos_titular:
+    id: "4.4"
+    descricao: "Canal para exercício de direitos do titular"
+    prioridade: P0
+    keywords:
+    - encarregado
+    - dpo
+    - titular
+    - solicitação
+    - lgpd@
+    fundamentacao: ["art. 18 LGPD", "art. 41 LGPD"]
+
+  seguranca:
+    id: "4.5"
+    descricao: "Indicadores de segurança da informação"
+    prioridade: P1
+    keywords:
+    - https
+    - certificado
+    - segurança
+    fundamentacao: ["art. 46 LGPD", "ISO 27001 A.8.24"]
+
+  cookies:
+    id: "4.6"
+    descricao: "Política e banner de cookies"
+    prioridade: P2
+    keywords:
+    - cookie
+    - cookies
+    - rastreamento
+    fundamentacao: ["art. 7 LGPD", "art. 9 LGPD"]

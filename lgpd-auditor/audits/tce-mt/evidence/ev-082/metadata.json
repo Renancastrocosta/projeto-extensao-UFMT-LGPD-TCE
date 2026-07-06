@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-082",
+  "url": "https://www.tce.mt.gov.br/pesquisa-de-satisfacao/871",
+  "captured_at": "2026-07-06T13:51:57.306323+00:00",
+  "status_http": 200,
+  "content_hash": "3384e5d90ddab83bd89d6b3d97c5d4a0d84f2df870cd2431440baac3d18638e0",
+  "screenshot_hash": "afb648f80f837d34789251a25f626ff4ef4dda1e915c07d1e91c4c93e3f08801",
+  "screenshot_path": "evidence/ev-082/screenshot.png",
+  "html_summary_path": "evidence/ev-082/page_summary.txt",
+  "page_title": "PESQUISA DE SATISFAÇÃO - Portal do TCE",
+  "audit_id": "tce-mt"
+}

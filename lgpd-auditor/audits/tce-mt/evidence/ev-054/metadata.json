@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-054",
+  "url": "https://www.tce.mt.gov.br/legislacoes/portarias",
+  "captured_at": "2026-07-06T13:51:45.763221+00:00",
+  "status_http": 200,
+  "content_hash": "04e7dc3169c34ae0ebf71bcdf656635c9e32f0efa725b9696ead7fa36d6041d7",
+  "screenshot_hash": "0feda873a5ad46b8715bcca462a3726d675ac31c76aaab513ce4864c69ce0204",
+  "screenshot_path": "evidence/ev-054/screenshot.png",
+  "html_summary_path": "evidence/ev-054/page_summary.txt",
+  "page_title": "Portarias - Portal do TCE",
+  "audit_id": "tce-mt"
+}

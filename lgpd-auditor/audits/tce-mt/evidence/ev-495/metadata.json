@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-495",
+  "url": "https://plenariovirtual.tce.mt.gov.br/pauta/2026-05-25/V/3/votacao/1805290/2024",
+  "captured_at": "2026-07-06T13:53:38.336105+00:00",
+  "status_http": 200,
+  "content_hash": "55a16a12191f4188d028c378afa8e5ca266a4f801b4d3d9945a195af4c627a0c",
+  "screenshot_hash": "ffb7c15d51a43ea9194fc915850b898abcb5e3660a49e3185bd9a80d7ca08ca6",
+  "screenshot_path": "evidence/ev-495/screenshot.png",
+  "html_summary_path": "evidence/ev-495/page_summary.txt",
+  "page_title": "Plenário Virtual - Tribunal de Contas de Mato Grosso",
+  "audit_id": "tce-mt"
+}

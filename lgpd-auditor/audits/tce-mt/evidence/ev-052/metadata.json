@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-052",
+  "url": "https://www.tce.mt.gov.br/legislacoes/decisoes-normativas",
+  "captured_at": "2026-07-06T13:51:46.267647+00:00",
+  "status_http": 200,
+  "content_hash": "782bf93adf1a2ebea6f58d54f8c6fc10a6b88c2e5856a8cd9d3ceac8ab76fd3d",
+  "screenshot_hash": "a72335de4687b8e011d5194c21b1e9cbc326ecaece22d0eb7922f2b17dafaf20",
+  "screenshot_path": "evidence/ev-052/screenshot.png",
+  "html_summary_path": "evidence/ev-052/page_summary.txt",
+  "page_title": "Decisões Normativas - Portal do TCE",
+  "audit_id": "tce-mt"
+}

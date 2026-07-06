@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-086",
+  "url": "https://www.tce.mt.gov.br/noticias/sergio-ricardo-determina-abertura-de-mesa-tecnica-para-destravar-regularizacao-ambiental-da-agricultura-familiar/62636",
+  "captured_at": "2026-07-06T13:51:59.832400+00:00",
+  "status_http": 200,
+  "content_hash": "471b05c74f59db1eb1f7b328a99b8f7b61c1f0b3d4e1a6115149b90e1fbb372b",
+  "screenshot_hash": "e0bb91e03539328837c622310547e5fd4aebb3f8446a5757cdd1f24c46ae6fe3",
+  "screenshot_path": "evidence/ev-086/screenshot.png",
+  "html_summary_path": "evidence/ev-086/page_summary.txt",
+  "page_title": "Sérgio Ricardo determina abertura de mesa técnica para destravar regularização ambiental da agricultura familiar - Portal do TCE",
+  "audit_id": "tce-mt"
+}

@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-038",
+  "url": "https://www.tce.mt.gov.br/o-que-e-o-programa-gpe/1024",
+  "captured_at": "2026-07-06T13:51:37.000134+00:00",
+  "status_http": 200,
+  "content_hash": "3005229f7eba3d0ba5a9fdf4a2f44b7d712c5280ad8803d833cff95340ef9453",
+  "screenshot_hash": "4e93ec55a4506cfc2741147823ee80a1131736908e5d6c5f6dda2ec38f5396b3",
+  "screenshot_path": "evidence/ev-038/screenshot.png",
+  "html_summary_path": "evidence/ev-038/page_summary.txt",
+  "page_title": "O que é o Programa GPE - Portal do TCE",
+  "audit_id": "tce-mt"
+}

@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-053",
+  "url": "https://www.tce.mt.gov.br/legislacoes/decisoes-administrativas",
+  "captured_at": "2026-07-06T13:51:45.829451+00:00",
+  "status_http": 200,
+  "content_hash": "0000ecda1fb76a0b6f4434bb7af113af7d5afb851d24f0ed1be2ac62ac6f119e",
+  "screenshot_hash": "02833c28b2bb9d77502510e31801c6a939cdbe5a0771968ea757146e883b9fbe",
+  "screenshot_path": "evidence/ev-053/screenshot.png",
+  "html_summary_path": "evidence/ev-053/page_summary.txt",
+  "page_title": "Decisões Administrativas - Portal do TCE",
+  "audit_id": "tce-mt"
+}

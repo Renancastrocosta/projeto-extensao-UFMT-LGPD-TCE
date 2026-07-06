@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-157",
+  "url": "https://escolasuperiordecontas.tce.mt.gov.br/noticias",
+  "captured_at": "2026-07-06T13:52:22.302167+00:00",
+  "status_http": 200,
+  "content_hash": "98cf7ec72c0958e2d63e73704323e851cdc85021cbe12623106d9496686303d1",
+  "screenshot_hash": "1b2d7d2cc4ae6044fcdfb264239141989ad1f023d9d7ff49370300788ba5fb67",
+  "screenshot_path": "evidence/ev-157/screenshot.png",
+  "html_summary_path": "evidence/ev-157/page_summary.txt",
+  "page_title": "Escola de Contas TCE MT",
+  "audit_id": "tce-mt"
+}

@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-067",
+  "url": "https://www.tce.mt.gov.br/artigos",
+  "captured_at": "2026-07-06T13:51:51.863438+00:00",
+  "status_http": 200,
+  "content_hash": "761e72d8a1aa923b4b8c01602ce2cc4984d8bde095e1750bb2208f88ca75d6ac",
+  "screenshot_hash": "4fe786cbf3b88eb41e58a087154c71daf3f8f610e1f471ff47007d6606f10a62",
+  "screenshot_path": "evidence/ev-067/screenshot.png",
+  "html_summary_path": "evidence/ev-067/page_summary.txt",
+  "page_title": "Artigos - Portal do TCE",
+  "audit_id": "tce-mt"
+}

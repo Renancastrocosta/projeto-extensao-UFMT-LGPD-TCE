@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-078",
+  "url": "https://www.tce.mt.gov.br/ouvidoria-perguntas-frequentes",
+  "captured_at": "2026-07-06T13:51:56.283227+00:00",
+  "status_http": 200,
+  "content_hash": "68561a0ed96309361b8222cab65c33740699f8623d7084ef4eb7df6b80b72136",
+  "screenshot_hash": "b716a6593f51e8407f11d87eccf3fe037881f93a9e874277223c665a4dc9fc5b",
+  "screenshot_path": "evidence/ev-078/screenshot.png",
+  "html_summary_path": "evidence/ev-078/page_summary.txt",
+  "page_title": "Perguntas Frequentes - Ouvidoria - Portal do TCE",
+  "audit_id": "tce-mt"
+}

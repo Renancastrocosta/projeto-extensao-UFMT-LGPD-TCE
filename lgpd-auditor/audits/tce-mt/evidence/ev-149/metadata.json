@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-149",
+  "url": "https://escolasuperiordecontas.tce.mt.gov.br/pages/estrutura-fisica",
+  "captured_at": "2026-07-06T13:52:12.243471+00:00",
+  "status_http": 200,
+  "content_hash": "e3baf789f6fea51701f4d660e3123297d0ac9ef8881e96aaee141f63d0d544ee",
+  "screenshot_hash": "265fea035de971efef1f02c92a4a9b549ebdcf1d76daa0e7bfc912c3a400e8a7",
+  "screenshot_path": "evidence/ev-149/screenshot.png",
+  "html_summary_path": "evidence/ev-149/page_summary.txt",
+  "page_title": "Escola de Contas TCE MT",
+  "audit_id": "tce-mt"
+}

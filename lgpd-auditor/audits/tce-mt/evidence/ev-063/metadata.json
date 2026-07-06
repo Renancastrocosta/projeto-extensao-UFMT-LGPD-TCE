@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-063",
+  "url": "https://www.tce.mt.gov.br/publicacao",
+  "captured_at": "2026-07-06T13:51:50.469115+00:00",
+  "status_http": 200,
+  "content_hash": "63564af5df5354f74efe102dad10a02c76e6d52bffa7de2424f59445118fd422",
+  "screenshot_hash": "539f6acd8b95dbc5e8f6c93efd31352ae432d56f2e0e3553b12e5b17325fcd64",
+  "screenshot_path": "evidence/ev-063/screenshot.png",
+  "html_summary_path": "evidence/ev-063/page_summary.txt",
+  "page_title": "Normas e Procedimentos - Portal do TCE",
+  "audit_id": "tce-mt"
+}

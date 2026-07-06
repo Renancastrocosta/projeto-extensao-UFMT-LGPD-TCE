@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-068",
+  "url": "https://www.tce.mt.gov.br/radio-tce/169",
+  "captured_at": "2026-07-06T13:51:52.796677+00:00",
+  "status_http": 200,
+  "content_hash": "01f93a9b69c764481623a47d318446ddcee81f0f8f10d4087d5b7ae4775f2b74",
+  "screenshot_hash": "ebf9aa0122dedb596937bed47bf4a7c6211d8f45c8bc4298318473cd67517e1f",
+  "screenshot_path": "evidence/ev-068/screenshot.png",
+  "html_summary_path": "evidence/ev-068/page_summary.txt",
+  "page_title": "Rádio TCE - Portal do TCE",
+  "audit_id": "tce-mt"
+}

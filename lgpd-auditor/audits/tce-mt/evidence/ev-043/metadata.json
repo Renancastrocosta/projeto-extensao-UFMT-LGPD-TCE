@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-043",
+  "url": "https://servicos.tce.mt.gov.br/igfm",
+  "captured_at": "2026-07-06T13:51:38.282486+00:00",
+  "status_http": 200,
+  "content_hash": "a9e27dc570358ce4f11ccae4a2b802e45a04f5ed0653ed6d5489937ecf4bfdb1",
+  "screenshot_hash": "2b884d9787e93040b263c285219e6d083c64605eb6cbc0287ac1229a54e1ed77",
+  "screenshot_path": "evidence/ev-043/screenshot.png",
+  "html_summary_path": "evidence/ev-043/page_summary.txt",
+  "page_title": "IGFM - Índice de Gestão Fiscal :: Portal de Serviços / TCE-MT",
+  "audit_id": "tce-mt"
+}

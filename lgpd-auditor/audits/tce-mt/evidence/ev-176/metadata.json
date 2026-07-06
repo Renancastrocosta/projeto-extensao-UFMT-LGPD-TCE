@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-176",
+  "url": "https://escolasuperiordecontas.tce.mt.gov.br/noticia/tce-mt-capacita-servidores-para-auditorias-e-avaliacoes-de-politicas-publicas",
+  "captured_at": "2026-07-06T13:52:31.689780+00:00",
+  "status_http": 200,
+  "content_hash": "2ea03c4f845fb316fcfdd00b88349779cffa89efc7aeb5cc09686511725a2061",
+  "screenshot_hash": "0d8dd1f7b334c9ac10cd591dfd0d77928563cc78ae39489795d58149cdc78dd0",
+  "screenshot_path": "evidence/ev-176/screenshot.png",
+  "html_summary_path": "evidence/ev-176/page_summary.txt",
+  "page_title": "Escola de Contas TCE MT",
+  "audit_id": "tce-mt"
+}

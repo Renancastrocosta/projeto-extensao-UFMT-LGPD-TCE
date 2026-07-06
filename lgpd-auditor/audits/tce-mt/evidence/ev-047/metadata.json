@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-047",
+  "url": "https://www.tce.mt.gov.br/julgamento/virtual",
+  "captured_at": "2026-07-06T13:51:43.414545+00:00",
+  "status_http": 200,
+  "content_hash": "33b16c2c0f5ae9649269f4d906ed2352970f7644f198aa9b0b69c487a0621e7d",
+  "screenshot_hash": "8241360bd4e46fe12c54db13da6bdded8e86d1cce060a12640067ab6041fb70c",
+  "screenshot_path": "evidence/ev-047/screenshot.png",
+  "html_summary_path": "evidence/ev-047/page_summary.txt",
+  "page_title": "Sessão Plenária Virtual do dia 25/05/2026. - Portal do TCE",
+  "audit_id": "tce-mt"
+}

@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-088",
+  "url": "https://www.tce.mt.gov.br/noticias/servidores-comissionados-do-tce-mt-fundam-associacao-voltada-a-capacitacao-e-integracao/62633",
+  "captured_at": "2026-07-06T13:51:59.579490+00:00",
+  "status_http": 200,
+  "content_hash": "e79cdc7bd8f6438cb84811311e38d2c42a1964c4d15baa15cf5afcf29580ea17",
+  "screenshot_hash": "3e125ce1ff5299a0d196009f1f1d32a67c592d57188254331256e0b5d6bae7cf",
+  "screenshot_path": "evidence/ev-088/screenshot.png",
+  "html_summary_path": "evidence/ev-088/page_summary.txt",
+  "page_title": "Servidores comissionados do TCE-MT fundam associação voltada à capacitação e integração - Portal do TCE",
+  "audit_id": "tce-mt"
+}

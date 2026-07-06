@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-294",
+  "url": "https://servicos.tce.mt.gov.br/log",
+  "captured_at": "2026-07-06T13:52:55.596411+00:00",
+  "status_http": 200,
+  "content_hash": "11898d9c045de5b7ae7843cbf2d94c462b60144787ebc04d5908431e82b73aa9",
+  "screenshot_hash": "e570bd0729f7ae667509b8c01cdcdffed249d8eb1e637fd81c03dd0ff65d0663",
+  "screenshot_path": "evidence/ev-294/screenshot.png",
+  "html_summary_path": "evidence/ev-294/page_summary.txt",
+  "page_title": ":: Portal de Serviços / TCE-MT",
+  "audit_id": "tce-mt"
+}

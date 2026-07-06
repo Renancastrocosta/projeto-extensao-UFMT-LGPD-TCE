@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-175",
+  "url": "https://escolasuperiordecontas.tce.mt.gov.br/noticia/servidores-comissionados-do-tce-mt-fundam-associacao-voltada-a-capacitacao-e-integracao",
+  "captured_at": "2026-07-06T13:52:32.329829+00:00",
+  "status_http": 200,
+  "content_hash": "e9d8046eef83c6334c22c674c356e8a32bfe20b9be4c0103aaf6b5ef0b85179d",
+  "screenshot_hash": "ae2da706745a799a416a2e681f0af554303e3505edcf5ae395088d5c8adc642d",
+  "screenshot_path": "evidence/ev-175/screenshot.png",
+  "html_summary_path": "evidence/ev-175/page_summary.txt",
+  "page_title": "Escola de Contas TCE MT",
+  "audit_id": "tce-mt"
+}

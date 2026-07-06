@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-061",
+  "url": "https://www.tce.mt.gov.br/legislacoes/sumulas",
+  "captured_at": "2026-07-06T13:51:49.301353+00:00",
+  "status_http": 200,
+  "content_hash": "45243e8354640b458c27a79f4c19e64d05103aa199c4900b63cea55709135a3d",
+  "screenshot_hash": "6d3a425e84ac79b9f0fc807cdc30d25ed35ae15e9789d9767b12760305bd9e45",
+  "screenshot_path": "evidence/ev-061/screenshot.png",
+  "html_summary_path": "evidence/ev-061/page_summary.txt",
+  "page_title": "Súmulas - Portal do TCE",
+  "audit_id": "tce-mt"
+}

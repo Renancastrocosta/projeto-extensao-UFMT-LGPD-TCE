@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-092",
+  "url": "https://www.tce.mt.gov.br/galeria/capacitacao-para-o-fortalecimento-do-controle-na-saude-2-dia/4794",
+  "captured_at": "2026-07-06T13:52:01.530236+00:00",
+  "status_http": 200,
+  "content_hash": "c11056cdacd22b2f14d58eb7cba9f3411c2de3a63cfba9eefec92ccc002cb8e9",
+  "screenshot_hash": "20d14eccd891f0636ce7dfeb35689db4e2b67fcc2bfb50eb389eeb5f28e7e5da",
+  "screenshot_path": "evidence/ev-092/screenshot.png",
+  "html_summary_path": "evidence/ev-092/page_summary.txt",
+  "page_title": "Capacitação para o Fortalecimento do Controle na Saúde - 2º Dia - Portal do TCE",
+  "audit_id": "tce-mt"
+}

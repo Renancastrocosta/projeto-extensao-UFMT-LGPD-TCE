@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-005",
+  "url": "https://www.tce.mt.gov.br/acessibilidade-do-portal/1067",
+  "captured_at": "2026-07-06T13:44:33.880355+00:00",
+  "status_http": 200,
+  "content_hash": "6435bf0ca1c1ee73e0f5b8a933f27ceaf041580de26c9b87d496e1db526eda2d",
+  "screenshot_hash": "2c99d4d93719a28f45175e816a08696479d2241a2729086cec6a5bdfd872b3d9",
+  "screenshot_path": "evidence/ev-005/screenshot.png",
+  "html_summary_path": "evidence/ev-005/page_summary.txt",
+  "page_title": "Acessibilidade do Portal - Portal do TCE",
+  "audit_id": "tce-mt"
+}

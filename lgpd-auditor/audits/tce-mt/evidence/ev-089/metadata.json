@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-089",
+  "url": "https://radar.tce.mt.gov.br/",
+  "captured_at": "2026-07-06T13:51:59.401266+00:00",
+  "status_http": 200,
+  "content_hash": "d1cffa858364d95f159e94f7e82a28b0cd2f9a79c85183edb71dab0a1bba8fcd",
+  "screenshot_hash": "7a9c65bed737d497bff897bd7c3855d75087179c470dc69b017b3efa954011b0",
+  "screenshot_path": "evidence/ev-089/screenshot.png",
+  "html_summary_path": "evidence/ev-089/page_summary.txt",
+  "page_title": "Portal Radar de Controle Público",
+  "audit_id": "tce-mt"
+}

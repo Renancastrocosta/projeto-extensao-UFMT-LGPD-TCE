@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-150",
+  "url": "https://escolasuperiordecontas.tce.mt.gov.br/pages/objetivos-estrategicos",
+  "captured_at": "2026-07-06T13:52:14.066997+00:00",
+  "status_http": 200,
+  "content_hash": "fe5282734017bc8d756287921387adbc2fe9622952861f2a975dc9109a408956",
+  "screenshot_hash": "7ad26a81b0256aaeeb12b263e6a5993da3bc96126bd32b93fec6e5b8df40ad9f",
+  "screenshot_path": "evidence/ev-150/screenshot.png",
+  "html_summary_path": "evidence/ev-150/page_summary.txt",
+  "page_title": "Escola de Contas TCE MT",
+  "audit_id": "tce-mt"
+}

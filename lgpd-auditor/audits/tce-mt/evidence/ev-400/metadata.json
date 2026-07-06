@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-400",
+  "url": "https://www.tce.mt.gov.br/julgamento/presencial?pauta=19-05-2026-O-0",
+  "captured_at": "2026-07-06T13:53:14.798023+00:00",
+  "status_http": 429,
+  "content_hash": "a7fe83ec64bb23eb28090598db3d166ed98e52e39d1afbbfd74c579553f93e4e",
+  "screenshot_hash": "3878570f4a62a0d65f57cf1754e0269e56ec797f4e36e26b44c172eb6e800401",
+  "screenshot_path": "evidence/ev-400/screenshot.png",
+  "html_summary_path": "evidence/ev-400/page_summary.txt",
+  "page_title": "",
+  "audit_id": "tce-mt"
+}

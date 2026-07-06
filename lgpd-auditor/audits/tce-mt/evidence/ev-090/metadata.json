@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-090",
+  "url": "https://geoobras.tce.mt.gov.br/cidadao",
+  "captured_at": "2026-07-06T13:52:00.104327+00:00",
+  "status_http": 200,
+  "content_hash": "f27ebec2f357ba7372c5ea835d706efec6c98d8c9828798342b13e97653204bb",
+  "screenshot_hash": "3a4d2edba44d8042201f57dd9ce6fd70881733450b2515168c0a451e574b302e",
+  "screenshot_path": "evidence/ev-090/screenshot.png",
+  "html_summary_path": "evidence/ev-090/page_summary.txt",
+  "page_title": "Sistema Geo-Obras CidadÃ£o",
+  "audit_id": "tce-mt"
+}

@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-060",
+  "url": "https://www.tce.mt.gov.br/legislacoes/prejulgados",
+  "captured_at": "2026-07-06T13:51:48.350463+00:00",
+  "status_http": 200,
+  "content_hash": "f3f9e24f71486c179d5b432129bb6a310c4c8939ff5047db689dd2dee87eda9a",
+  "screenshot_hash": "2c6e9f197dcafdc4e41afb1ece30d15d1de9b0aba2274411857cbfdeb630045f",
+  "screenshot_path": "evidence/ev-060/screenshot.png",
+  "html_summary_path": "evidence/ev-060/page_summary.txt",
+  "page_title": "Prejulgados - Portal do TCE",
+  "audit_id": "tce-mt"
+}

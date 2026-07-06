@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-042",
+  "url": "https://servicos.tce.mt.gov.br/audiencias",
+  "captured_at": "2026-07-06T13:51:40.274682+00:00",
+  "status_http": 200,
+  "content_hash": "4bdd6aa0400c0c3e805ce63cd3609167415cad94c20618afe79425b0cd9fc381",
+  "screenshot_hash": "6d6379d1f771f90037fef87a07ce639c76cceb596c3de8783f1f77d015c2ad3a",
+  "screenshot_path": "evidence/ev-042/screenshot.png",
+  "html_summary_path": "evidence/ev-042/page_summary.txt",
+  "page_title": "Audiências Públicas :: Portal de Serviços / TCE-MT",
+  "audit_id": "tce-mt"
+}

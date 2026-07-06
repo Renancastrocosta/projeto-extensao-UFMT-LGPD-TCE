@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-085",
+  "url": "https://www.tce.mt.gov.br/noticias/tce-mt-capacita-servidores-para-auditorias-e-avaliacoes-de-politicas-publicas/62637",
+  "captured_at": "2026-07-06T13:51:58.462637+00:00",
+  "status_http": 200,
+  "content_hash": "a6ec311afce1bbf01c5ec52b674c9e15e5bda9ee0507da65d592eef1949a6833",
+  "screenshot_hash": "fada2580245b043db86679a8736d64929b62be71693343f6257cf73afa6a9267",
+  "screenshot_path": "evidence/ev-085/screenshot.png",
+  "html_summary_path": "evidence/ev-085/page_summary.txt",
+  "page_title": "TCE-MT capacita servidores para auditorias e avaliações de políticas públicas - Portal do TCE",
+  "audit_id": "tce-mt"
+}

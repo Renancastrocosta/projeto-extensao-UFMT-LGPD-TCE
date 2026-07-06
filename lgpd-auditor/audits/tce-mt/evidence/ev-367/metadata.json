@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-367",
+  "url": "https://servicos.tce.mt.gov.br/consulta-item/historico/03-07-2026",
+  "captured_at": "2026-07-06T13:53:07.932074+00:00",
+  "status_http": 200,
+  "content_hash": "812843e60216c84494157c36655677cdc6606ca1fc242bede2e8536329a8efe3",
+  "screenshot_hash": "78d751036f92ee0b3407fb209692a456d452a620d17bf2879f5da8dc367929d4",
+  "screenshot_path": "evidence/ev-367/screenshot.png",
+  "html_summary_path": "evidence/ev-367/page_summary.txt",
+  "page_title": "Catálogo de Material de Licitação :: Portal de Serviços / TCE-MT",
+  "audit_id": "tce-mt"
+}

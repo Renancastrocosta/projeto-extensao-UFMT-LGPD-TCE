@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-018",
+  "url": "http://www.tce.mt.gov.br/conteudo/index/sid/939",
+  "captured_at": "2026-07-06T13:51:30.607104+00:00",
+  "status_http": 200,
+  "content_hash": "5ee28fc00cb30da0790405bbe8d830c38128600fb153a4d1b6ee98cc70c35176",
+  "screenshot_hash": "1d9a34439cdc29929bad7b6ae53a78651a0c5e1353076f9b23af553206b9a72e",
+  "screenshot_path": "evidence/ev-018/screenshot.png",
+  "html_summary_path": "evidence/ev-018/page_summary.txt",
+  "page_title": "O TCE e a ISO - Portal do TCE",
+  "audit_id": "tce-mt"
+}

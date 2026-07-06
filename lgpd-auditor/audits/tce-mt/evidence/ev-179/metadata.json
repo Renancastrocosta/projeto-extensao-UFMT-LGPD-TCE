@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-179",
+  "url": "https://escolasuperiordecontas.tce.mt.gov.br/galerias/25-anos-da-escola-superior-de-contas/841",
+  "captured_at": "2026-07-06T13:52:36.496221+00:00",
+  "status_http": 200,
+  "content_hash": "922be883ee1dffd3c6ffc5d2ba1c5c49dfd9a169c96187b9b240e165557a4523",
+  "screenshot_hash": "a1f117e7e9dbfbf2e2d5ad6e0939ca0daaf995ee444354664fedf923612a6a52",
+  "screenshot_path": "evidence/ev-179/screenshot.png",
+  "html_summary_path": "evidence/ev-179/page_summary.txt",
+  "page_title": "Escola de Contas TCE MT",
+  "audit_id": "tce-mt"
+}

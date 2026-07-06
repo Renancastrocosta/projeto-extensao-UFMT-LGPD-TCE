@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-002",
+  "url": "https://www.tce.mt.gov.br/corpo-deliberativo/15",
+  "captured_at": "2026-07-06T13:41:09.660631+00:00",
+  "status_http": 200,
+  "content_hash": "b54ba1da8938109b6c7b69856395d35e444804afb303e11d8b6a86a4ae1d7c70",
+  "screenshot_hash": "2f5629edbf5afcba82bb1313ad171279d742b914856eb202851a34b8bb6c1b16",
+  "screenshot_path": "evidence/ev-002/screenshot.png",
+  "html_summary_path": "evidence/ev-002/page_summary.txt",
+  "page_title": "Corpo Deliberativo - Portal do TCE",
+  "audit_id": "tce-mt"
+}

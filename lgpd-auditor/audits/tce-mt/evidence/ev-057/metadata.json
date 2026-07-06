@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-057",
+  "url": "https://www.tce.mt.gov.br/publicacao/informativo-de-precedentes/32",
+  "captured_at": "2026-07-06T13:51:47.705539+00:00",
+  "status_http": 200,
+  "content_hash": "4c3e5c150e590a0cccdb899342424bd190acf3fcb725af03b18d30de687b7f38",
+  "screenshot_hash": "4a1e10342298421d47b940e4c4db43a8b5c92a91d725588fc394b9165775d3da",
+  "screenshot_path": "evidence/ev-057/screenshot.png",
+  "html_summary_path": "evidence/ev-057/page_summary.txt",
+  "page_title": "Informativo de Precedentes - Portal do TCE",
+  "audit_id": "tce-mt"
+}

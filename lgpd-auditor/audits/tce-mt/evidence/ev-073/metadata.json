@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-073",
+  "url": "https://www.tce.mt.gov.br/tipos-de-manifestacoes/724",
+  "captured_at": "2026-07-06T13:51:54.269098+00:00",
+  "status_http": 200,
+  "content_hash": "096424710306a07e79b7e522f17081f15ab5f88e2e3b71609f983061360d1983",
+  "screenshot_hash": "6e1777419981ced7a893d7df844357ce548968842905dc54d834e2408d52a632",
+  "screenshot_path": "evidence/ev-073/screenshot.png",
+  "html_summary_path": "evidence/ev-073/page_summary.txt",
+  "page_title": "Tipos - Portal do TCE",
+  "audit_id": "tce-mt"
+}

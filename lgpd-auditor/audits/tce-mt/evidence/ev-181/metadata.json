@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-181",
+  "url": "https://escolasuperiordecontas.tce.mt.gov.br/galerias/8-congresso-internacional-de-direito-tribut-rio-e-financeiro/821",
+  "captured_at": "2026-07-06T13:52:38.630781+00:00",
+  "status_http": 200,
+  "content_hash": "49055acb36ee50346b8d2b53308defec585a6fb076f75902bbf9938b6a8873ca",
+  "screenshot_hash": "8da2b8079e6eacf618f00d8c9b07ee79aad562dcaf51def7d9029ff755a98738",
+  "screenshot_path": "evidence/ev-181/screenshot.png",
+  "html_summary_path": "evidence/ev-181/page_summary.txt",
+  "page_title": "Escola de Contas TCE MT",
+  "audit_id": "tce-mt"
+}

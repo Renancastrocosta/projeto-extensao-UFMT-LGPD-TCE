@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-034",
+  "url": "https://www.tce.mt.gov.br/geo-obras/486",
+  "captured_at": "2026-07-06T13:51:35.818245+00:00",
+  "status_http": 200,
+  "content_hash": "aa55ccedbeb51ffe156f366cab03e1a50f34e9d90c0607a9ec76165080049777",
+  "screenshot_hash": "0492ce7408570d241982db19ff2a0fe35da30858070f3c8f07239f9240941db5",
+  "screenshot_path": "evidence/ev-034/screenshot.png",
+  "html_summary_path": "evidence/ev-034/page_summary.txt",
+  "page_title": "Geo Obras - Portal do TCE",
+  "audit_id": "tce-mt"
+}

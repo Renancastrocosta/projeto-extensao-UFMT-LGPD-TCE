@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-051",
+  "url": "https://www.tce.mt.gov.br/legislacoes/regimento-interno",
+  "captured_at": "2026-07-06T13:51:45.245341+00:00",
+  "status_http": 200,
+  "content_hash": "d850276df0b540aaf174c9cb67d7c1b131791b3967f4cae78ef9b17b069c84f3",
+  "screenshot_hash": "89f5bc2d1a4da495aec5da226983ea4f22ff16745d9926166718760096663880",
+  "screenshot_path": "evidence/ev-051/screenshot.png",
+  "html_summary_path": "evidence/ev-051/page_summary.txt",
+  "page_title": "Regimento Interno - Portal do TCE",
+  "audit_id": "tce-mt"
+}

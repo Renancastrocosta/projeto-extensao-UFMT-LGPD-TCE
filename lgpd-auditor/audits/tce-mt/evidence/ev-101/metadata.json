@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-101",
+  "url": "https://intranet.tce.mt.gov.br/login",
+  "captured_at": "2026-07-06T13:52:03.549849+00:00",
+  "status_http": 200,
+  "content_hash": "70d13c61e6b12d9ff3a28f3f33ed0a100061696071cb5494fba812fa6b4ec16f",
+  "screenshot_hash": "7b8fa7ba5ec6191f34f9969e70ae9b3390bc97f571bc4f6fddd893a082704019",
+  "screenshot_path": "evidence/ev-101/screenshot.png",
+  "html_summary_path": "evidence/ev-101/page_summary.txt",
+  "page_title": "Bem vindo a Intranet! Login",
+  "audit_id": "tce-mt"
+}

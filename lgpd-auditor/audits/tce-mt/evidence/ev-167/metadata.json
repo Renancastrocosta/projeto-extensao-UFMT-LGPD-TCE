@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-167",
+  "url": "https://escolasuperiordecontas.tce.mt.gov.br/noticia/comunicado-institucional-recesso-academico-mba-em-gestao-de-cidades",
+  "captured_at": "2026-07-06T13:52:28.971056+00:00",
+  "status_http": 200,
+  "content_hash": "dae96ff119927b39eea6450e6e705b2b6d75470f8fc4bc2013a0a4146125340b",
+  "screenshot_hash": "d9211c01f87f7de7f93dab2bb1b9872b0bca11d2ad9c71c2048d859a7ccfd8d9",
+  "screenshot_path": "evidence/ev-167/screenshot.png",
+  "html_summary_path": "evidence/ev-167/page_summary.txt",
+  "page_title": "Escola de Contas TCE MT",
+  "audit_id": "tce-mt"
+}

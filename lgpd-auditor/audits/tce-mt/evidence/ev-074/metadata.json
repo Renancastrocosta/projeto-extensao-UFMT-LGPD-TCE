@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-074",
+  "url": "https://www.tce.mt.gov.br/legislacao/148",
+  "captured_at": "2026-07-06T13:51:54.514762+00:00",
+  "status_http": 200,
+  "content_hash": "8b196da64698355d0328b87b2ba694c25e1662390497f195e9459aadea7ff957",
+  "screenshot_hash": "3b92afa5e5fdf08b39da79a3fbc9e5d5b8ef62a791cb411b5798affde9d33f9d",
+  "screenshot_path": "evidence/ev-074/screenshot.png",
+  "html_summary_path": "evidence/ev-074/page_summary.txt",
+  "page_title": "Legislação - Portal do TCE",
+  "audit_id": "tce-mt"
+}

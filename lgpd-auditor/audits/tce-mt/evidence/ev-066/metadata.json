@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-066",
+  "url": "https://www.tce.mt.gov.br/tvcontas",
+  "captured_at": "2026-07-06T13:51:50.941132+00:00",
+  "status_http": 200,
+  "content_hash": "5ee790aa9368a3da7e254a36788d504cd9116a275ca84a0ab95cd99aba0f5a6c",
+  "screenshot_hash": "011bb2c09d8b6592569f83374bf0f8179a633cda3d84c8ab77f72f988809d61e",
+  "screenshot_path": "evidence/ev-066/screenshot.png",
+  "html_summary_path": "evidence/ev-066/page_summary.txt",
+  "page_title": "TVContas - Portal do TCE",
+  "audit_id": "tce-mt"
+}

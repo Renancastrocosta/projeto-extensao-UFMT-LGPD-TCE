@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Relatório LGPD — {{ portal_nome }}</title>
+  <style>
+    body { font-family: system-ui, sans-serif; max-width: 960px; margin: 2rem auto; padding: 0 1rem; line-height: 1.6; color: #1a1a1a; }
+    h1, h2, h3 { color: #0d3b66; }
+    table { border-collapse: collapse; width: 100%; margin: 1rem 0; font-size: 0.9rem; }
+    th, td { border: 1px solid #ccc; padding: 0.5rem; text-align: left; }
+    th { background: #e8f0fe; }
+    .status-confirmado { color: #1b7a3d; font-weight: bold; }
+    .status-inferencia { color: #b8860b; font-weight: bold; }
+    .status-nao { color: #b00020; font-weight: bold; }
+    .meta { color: #555; font-size: 0.9rem; }
+    .anexo { overflow-x: auto; }
+  </style>
+</head>
+<body>
+  <h1>Relatório de Conformidade LGPD — {{ portal_nome }}</h1>
+  <p class="meta">
+    <strong>Auditoria:</strong> {{ audit_id }} |
+    <strong>Portal:</strong> <a href="{{ url_base }}">{{ url_base }}</a> |
+    <strong>Gerado em:</strong> {{ gerado_em }}
+  </p>
+
+  <h2>1. Introdução</h2>
+  <p>Análise de conformidade com a LGPD (Lei 13.709/2018) do portal <strong>{{ portal_nome }}</strong>.</p>
+
+  <h2>2. Metodologia</h2>
+  <table>
+    <tr><th>Métrica</th><th>Valor</th></tr>
+    <tr><td>Total de rotas visitadas</td><td>{{ total_rotas }}</td></tr>
+    <tr><td>Rotas com screenshot</td><td>{{ rotas_com_screenshot }}</td></tr>
+    <tr><td>Erros HTTP (4xx/5xx)</td><td>{{ rotas_com_erro_http }}</td></tr>
+    <tr><td>Bloqueadas (robots.txt)</td><td>{{ rotas_bloqueadas }}</td></tr>
+    <tr><td>Páginas analisadas</td><td>{{ total_paginas_analisadas }}</td></tr>
+    <tr><td>Total de achados</td><td>{{ total_achados }}</td></tr>
+  </table>
+
+  <h2>3. Ambiente Analisado</h2>
+  <p><strong>Instituição:</strong> {{ portal_nome }}<br>
+  <strong>Domínio:</strong> {{ dominio }}</p>
+
+  <h2>4. Análise de Conformidade LGPD</h2>
+  {% for secao_id, resumo in secoes_ordenadas %}
+  <h3>4.{{ loop.index }} {{ resumo.titulo }}</h3>
+  <table>
+    <tr><th>Status</th><td class="status-{{ resumo.status | lower | replace(' ', '-') | replace('ã','a') }}">{{ resumo.status }}</td></tr>
+    <tr><th>Confiança</th><td>{{ resumo.confianca }} ({{ resumo.percentual }}%)</td></tr>
+    <tr><th>Evidências</th><td>{{ resumo.evidence_ids | join(', ') if resumo.evidence_ids else 'Nenhuma' }}</td></tr>
+    <tr><th>Fundamentação</th><td>{{ resumo.fundamentacao_legal | join(', ') }}</td></tr>
+  </table>
+  {% if resumo.mensagem %}<p><em>{{ resumo.mensagem }}</em></p>{% endif %}
+  {% endfor %}
+
+  <h2>5. Uso da Inteligência Artificial</h2>
+  <p>Classificadores heurísticos sem IA generativa para conclusões. Todas as afirmações ancoradas em evidence_id.</p>
+
+  <h2>6. Resultados</h2>
+  <ul>
+  {% for secao_id, resumo in secoes_ordenadas %}
+    <li><strong>{{ secao_id }}</strong> {{ resumo.titulo }}: {{ resumo.status }} ({{ resumo.confianca }})</li>
+  {% endfor %}
+  </ul>
+
+  <h2>7. Recomendações</h2>
+  <ol>
+  {% for recomendacao in recomendacoes %}
+    <li>{{ recomendacao }}</li>
+  {% endfor %}
+  </ol>
+
+  <h2>8. Conclusão</h2>
+  <p>Diagnóstico exploratório sobre {{ total_rotas }} rotas visitadas e {{ total_paginas_analisadas }} páginas analisadas.</p>
+
+  <h2>9. Referências</h2>
+  <ul>
+    <li>Lei nº 13.709/2018 (LGPD)</li>
+    <li>ANPD — <a href="https://www.gov.br/anpd">gov.br/anpd</a></li>
+  </ul>
+
+  <div>{{ diario_engenharia_html | safe }}</div>
+
+  <h2>Anexo A — Rotas Visitadas</h2>
+  <div class="anexo">
+  <table>
+    <tr>
+      <th>Ordem</th><th>URL</th><th>HTTP</th><th>Evidence ID</th><th>Screenshot</th><th>Visitada em</th>
+    </tr>
+    {% for rota in rotas %}
+    <tr>
+      <td>{{ rota.ordem }}</td>
+      <td><a href="{{ rota.url }}">{{ rota.url }}</a></td>
+      <td>{{ rota.status_http or '—' }}</td>
+      <td>{{ rota.evidence_id }}</td>
+      <td>{{ rota.screenshot or '—' }}</td>
+      <td>{{ rota.visitada_em }}</td>
+    </tr>
+    {% endfor %}
+  </table>
+  </div>
+</body>
+</html>

@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-003",
+  "url": "https://cartadeservicos.tce.mt.gov.br/",
+  "captured_at": "2026-07-06T13:44:33.086048+00:00",
+  "status_http": 200,
+  "content_hash": "438ba64b6c98faac443ead7c8d80134a9bd5157b0c9b6fb2eb248dc0fe764d58",
+  "screenshot_hash": "671a791d6f0fbe655ee78777d735be6cacbfb6f759a900438fc506672f6197c8",
+  "screenshot_path": "evidence/ev-003/screenshot.png",
+  "html_summary_path": "evidence/ev-003/page_summary.txt",
+  "page_title": "- Carta de Serviços",
+  "audit_id": "tce-mt"
+}

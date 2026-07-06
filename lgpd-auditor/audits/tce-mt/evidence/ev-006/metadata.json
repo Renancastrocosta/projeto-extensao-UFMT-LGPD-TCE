@@ -1,0 +1,12 @@
+{
+  "evidence_id": "ev-006",
+  "url": "https://sic.tce.mt.gov.br/",
+  "captured_at": "2026-07-06T13:44:33.715688+00:00",
+  "status_http": 200,
+  "content_hash": "fe556d9bc34016901d72e9ac197caa8d3f24cb4668ca11907379a55b88a94d24",
+  "screenshot_hash": "91754c2eac8c6a2e966d41a438d894204eafcba26288ac2746466d4c12870a4f",
+  "screenshot_path": "evidence/ev-006/screenshot.png",
+  "html_summary_path": "evidence/ev-006/page_summary.txt",
+  "page_title": "SIC",
+  "audit_id": "tce-mt"
+}
