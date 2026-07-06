@@ -105,5 +105,3 @@ Este material é útil para:
 - diretório `lgpd-auditor/` (artefatos e insumos da auditoria)
 
 ---
-
-Se necessário, este README pode ser evoluído para uma versão voltada a banca avaliadora, com recorte executivo ainda mais objetivo e linguagem institucional.
